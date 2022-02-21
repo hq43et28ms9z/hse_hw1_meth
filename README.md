@@ -45,11 +45,14 @@
 
 
  
+  ![метилирование 4222](https://user-images.githubusercontent.com/91056319/154994813-7d7f1495-5a2c-4d3b-8e4d-3136291bdae6.JPG)
+
   
+  ![метилирование 6473](https://user-images.githubusercontent.com/91056319/154994831-d26063c0-e443-4d51-a340-5404bdb44e88.JPG)
+
   
-  
-  
-  
+  ![метилирование 6475](https://user-images.githubusercontent.com/91056319/154994840-6f0c1ae8-2c7d-46d5-bb38-fe9715abd3c5.JPG)
+
   
   
   
