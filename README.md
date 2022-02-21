@@ -1,8 +1,11 @@
 # hse_hw1_meth
 
 
-Отчёт FastQC
-  https://colab.research.google.com/gist/hq43et28ms9z/9e41b402bbbf2166fcdc02c469efb704/fastqc_report.ipynb
+Отчёт FastQC  
+                https://colab.research.google.com/gist/hq43et28ms9z/9e41b402bbbf2166fcdc02c469efb704/fastqc_report.ipynb
+  
+Основной файл  
+                https://colab.research.google.com/gist/hq43et28ms9z/4c4467632012cd6815f8c673afae56c3/-methylation-ipynb.ipynb
   
   
   ![seq quality](https://user-images.githubusercontent.com/91056319/154861527-959fe3ee-d89a-464a-9ed1-5998e2989eb0.JPG)
