@@ -17,10 +17,14 @@
   ![seq GC content](https://user-images.githubusercontent.com/91056319/154861545-43c1cbb4-cc27-483e-8597-176acaab669d.JPG)
 
   
-
   ![seq duplication levels](https://user-images.githubusercontent.com/91056319/154861556-120b142d-3d8c-41a2-b380-c0f909d587ca.JPG)
-
   
+  
+  Дупликации (b)
+  
+
+  ![duplications](https://user-images.githubusercontent.com/91056319/154908106-d3ea6305-e25b-42aa-96a7-fa94099018a7.JPG)
+
   
   
   
